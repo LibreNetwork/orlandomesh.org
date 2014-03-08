@@ -1,0 +1,3 @@
+ErrorDocument 403 /maintenance.html
+Order Allow,Deny
+Allow from 142.196.5.81
