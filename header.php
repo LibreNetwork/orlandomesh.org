@@ -12,6 +12,7 @@
     <title>Orlando Meshnet Project | <?php echo $title; ?></title>
     <?php } else { ?>
     <title>Orlando Meshnet Project</title>
+    <?php } ?>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
