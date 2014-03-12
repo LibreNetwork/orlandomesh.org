@@ -1,8 +1,8 @@
     <div id="footer">
           <div class="container">
-          <p class="muted">&copy; <?php echo(date('Y')); ?> Orlando Meshnet Project.</p>
-	  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-          </div>
+          <p class="muted">&copy; <?php echo(date('Y')); ?> Orlando Meshnet Project.&nbsp;&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </div></p>
+	  
     </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
