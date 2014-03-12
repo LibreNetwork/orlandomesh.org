@@ -12,8 +12,8 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="/index.php">Home</a></li>
-            <li class="disabled"><a href="/about.php">About</a></li>
+            <li><a href="/index.php">Home</a></li>
+            <li><a href="/about.php">About</a></li>
             <li class="disabled"><a href="#contact">Contact</a></li>
             <li class="dropdown" class="disabled">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
