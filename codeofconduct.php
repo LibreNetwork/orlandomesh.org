@@ -60,7 +60,7 @@ member of the community.</p>
       your efforts.</p>
 
       <p><b>When you disagree,</b> consult others. Disagreements, both
-      political and technical, happen all the time and the Ubuntu
+      political and technical, happen all the time and the Orlando Meshnet
       community is no exception. The important goal is not to avoid
       disagreements or differing views but to resolve them
       constructively. You should turn to the community and to the
