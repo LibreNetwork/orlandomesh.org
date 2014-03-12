@@ -1,1 +1,7 @@
 
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^orlandomesh\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.orlandomesh\.org$
+RewriteRule ^wiki\/Code_of_Conduct$ "http\:\/\/www\.orlandomesh\.org\/codeofconduct\.php" [R=302,L]
+
