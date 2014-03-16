@@ -15,6 +15,19 @@
             <li><a href="/index.php">Home</a></li>
             <li><a href="/about.php">About</a></li>
             <li class="disabled"><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mailing Lists <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://lists.orlandomesh.org/mailman/listinfo/discussion_lists.orlandomesh.org" target="_blank">Discussion List</a></li>
+                <li><a href="http://lists.orlandomesh.org/pipermail/discussion_lists.orlandomesh.org/" target="_blank">Discussion Archives</a></li>
+                <li class="divider"></li>
+                <li><a href="http://lists.orlandomesh.org/mailman/listinfo/networking_lists.orlandomesh.org" target="_blank">Networking List</a></li>
+                <li><a href="http://lists.orlandomesh.org/pipermail/networking_lists.orlandomesh.org/" target="_blank">Networking Archive</a></li>
+                <li class="divider"></li>
+                <li><a href="http://lists.orlandomesh.org/mailman/listinfo/ops_lists.orlandomesh.org" target="_blank">Ops List</a></li>
+                <li><a href="http://lists.orlandomesh.org/mailman/private/ops_lists.orlandomesh.org/" target="_blank">Ops Archive</a></li>
+              </ul>
+            </li>
             <!-- We're not using this section yet.
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
