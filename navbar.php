@@ -20,6 +20,8 @@
               <ul class="dropdown-menu">
                 <li class="dropdown-header">Software Repos</li>
                 <li><a href="https://github.com/orlandomesh/orlandomesh.org" target="_blank">Orlando Meshnet Website</a></li>
+                <li class="dropdown-header">Projects</li>
+                <li><a href="http://projects.orlandomesh.org">Projects Site</a></li>
               </ul>
             </li>
             <li class="dropdown">
